@@ -1,0 +1,1 @@
+.rounded-circle.img-fluid.d-block.mx-auto.mb-5{-webkit-animation:hue 20s infinite linear;animation:hue 20s infinite linear}@keyframes rounded-circleimg-fluidd-blockmx-automb-5{to{filter:hue-rotate(180deg)}from{filter:hue-rotate(-180deg);-webkit-filter:hue-rotate(-180deg)}to{-webkit-filter:hue-rotate(180deg)}}
